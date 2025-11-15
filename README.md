@@ -1,5 +1,5 @@
 # Hi there! 👋  
-I'm **Karim Alaa**, a Flutter Developer & Computer Science student.  
+I'm **Karim Alaa**, a Flutter Developer
 I’m passionate about building clean, simple, and functional mobile applications using Flutter.
 
 ---
